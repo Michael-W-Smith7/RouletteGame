@@ -1,0 +1,20 @@
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\bin\Debug\Roulette Reloaded.exe.config
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\bin\Debug\Roulette Reloaded.exe
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\bin\Debug\Roulette Reloaded.pdb
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette Reloaded.csprojAssemblyReference.cache
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette_Reloaded.Form1.resources
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette_Reloaded.Properties.Resources.resources
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette Reloaded.csproj.GenerateResource.cache
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette Reloaded.csproj.CoreCompileInputs.cache
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette Reloaded.exe
+C:\Users\SnAG Mobile\source\repos\Roulette Reloaded\obj\Debug\Roulette Reloaded.pdb
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette_Reloaded.Form1.resources
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette Reloaded.csproj.GenerateResource.cache
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette Reloaded.exe
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette Reloaded.pdb
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\bin\Debug\Roulette Reloaded.exe.config
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\bin\Debug\Roulette Reloaded.exe
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\bin\Debug\Roulette Reloaded.pdb
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette_Reloaded.Properties.Resources.resources
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette Reloaded.csproj.CoreCompileInputs.cache
+C:\Users\Blaze\Desktop\School\Roulette Reloaded\obj\Debug\Roulette Reloaded.csprojAssemblyReference.cache
